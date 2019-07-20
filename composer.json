@@ -1,7 +1,7 @@
 {
     "name": "getpop/migrate-commentmeta",
     "type": "library",
-    "description": "Adds support for comment meta",
+    "description": "(Temporary package) Migrate code to package https://github.com/getpop/commentmeta. Target package description: Adds support for comment meta",
     "keywords": [
         "PoP",
         "commentmeta"

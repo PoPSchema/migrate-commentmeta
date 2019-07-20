@@ -1,4 +1,4 @@
-# PACKAGE TO MIGRATE: Comment Meta
+# (Temporary package) Migrate code to package: Comment Meta
 
 <!--
 [![Latest Version on Packagist][ico-version]][link-packagist]
@@ -9,7 +9,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 -->
 
-PACKAGE TO MIGRATE: Adds support for comment meta
+Code to be migrated, from legacy PHP 5 code to modern PHP 7 code ([read more here](https://github.com/leoloso/PoP#codebase-migration)). Target package description:  Adds support for comment meta
 
 
 ## Install
