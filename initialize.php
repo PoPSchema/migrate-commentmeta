@@ -1,1 +1,2 @@
-<?php require_once 'migrate/pop-commentmeta.php;'
+<?php 
+require_once 'migrate/pop-commentmeta.php';
