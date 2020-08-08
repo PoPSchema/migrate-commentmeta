@@ -1,5 +1,5 @@
 <?php
-namespace PoP\CommentMeta;
+namespace PoPSchema\CommentMeta;
 
 abstract class FunctionAPI_Base implements FunctionAPI
 {
